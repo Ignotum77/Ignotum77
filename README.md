@@ -74,5 +74,9 @@ And you're the <img src="https://profile-counter.glitch.me/Ignotum77/count.svg">
       <!-- img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img -->
       <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history"></img></details>
     </td>
+    <td align="center" colspan="2">
+      <!-- img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img -->
+      <details><summary>Full history of [@Nomes77](https://github.com/Nomes77)</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history"></img></details>
+    </td>
   </tr>
 </table>

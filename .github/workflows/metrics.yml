@@ -89,7 +89,7 @@ jobs:
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@main
+      - uses: lowlighter/metrics@latest
         with: 
           filename: .github/src/metrics.plugin.achievements.compact.svg
           base: ""
@@ -100,16 +100,6 @@ jobs:
           #  polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
           #  scripter, packager, explorer, infographile, manager
           plugin_achievements_display: detailed
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@main
-        with:
-          filename: .github/src/metrics.plugin.skyline.svg
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2023         # current-year
-          plugin_skyline_frames: 110        # 120=full-loop, 60=half-loop
-          plugin_skyline_quality: 0.75      # default=0.5, max=1
-          plugin_skyline_compatibility: yes # This uses CSS animations rather than embedded GIF to support a wider range of browser (FF/Saf). Increase file size.
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:

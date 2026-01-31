@@ -14,8 +14,6 @@ And you're the <img src="https://profile-counter.glitch.me/Ignotum77/count.svg">
 - 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/Ignotum77/Ignotum77/discussions)
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignotum77&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="Ignotum77's GitHub Stats" align="center"></img>
 <table align="center">
   <tr>
     <td align="center" width="50%">

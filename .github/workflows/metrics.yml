@@ -24,18 +24,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          filename: .github/src/metrics.plugin.habits.charts.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 300       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: no       # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: no        # Trim unused hours on daily chart
-          config_timezone: Europe/Paris # Set timezone
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
           # template: repository
           filename: .github/src/metrics.plugin.followup.user.svg
           base: ""
@@ -75,31 +63,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers, contributors, stargazers, watchers
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with: 
-          filename: .github/src/metrics.plugin.starlists.languages.svg
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 3
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_limit_languages: 0
-          plugin_starlists_limit: 3
-          plugin_starlists_limit_repositories: 3
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with: 
-          filename: .github/src/metrics.plugin.achievements.compact.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          # plugin_achievements_only: >-
-          #  polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-          #  scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: detailed
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:

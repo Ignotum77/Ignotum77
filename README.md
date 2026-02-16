@@ -4,7 +4,6 @@
 
 I'm Ignotum. I develop things, because I want them better then other people have done it. <br>
 [Nomes77](https://github.com/Nomes77) was mine original account. Sadly I lost the password. So here a new begin. <br>
-And you're the <img src="https://profile-counter.glitch.me/Ignotum77/count.svg"></img>th visitor of this page.
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBlockOrigin/EasyDutch/)

@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.2mb of code in 2111 edited files across 975 commits</small>
+                <small>estimation from 38.2mb of code in 2115 edited files across 979 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.78579729698487" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.78579729698487" y="0" width="11.645756232675339" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.4315535296602" y="0" width="4.568446470339758" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.8137899507951" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.8137899507951" y="0" width="12.627769675402902" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.44155962619806" y="0" width="4.558440373801987" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             <small>
                                 <div>32.6k lines</div>
                                 <div>1.84 MB</div>
-                                <div>96.48%</div>
+                                <div>96.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,9 +49,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.57k lines</div>
-                                <div>48.1 kB</div>
-                                <div>2.53%</div>
+                                <div>1.66k lines</div>
+                                <div>52.3 kB</div>
+                                <div>2.75%</div>
                             </small>
                         </div>
                         <div class="field language details">

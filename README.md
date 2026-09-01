@@ -3,7 +3,6 @@
 </a>
 
 I'm Ignotum. I develop things, because I want them better then other people have done it. <br>
-[Nomes77](https://github.com/Nomes77) was my original account. Sadly I lost the password. So here a new begin. <br>
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBlockOrigin/EasyDutch/)

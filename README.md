@@ -13,7 +13,7 @@ I'm Ignotum. I develop things, because I want them better then other people have
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignotum77&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="Ignotum77's GitHub Stats" align="center"></img>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ignotum77&rank_icon=percentile&custom_title=All%20Stats%20in%20a%20Nutshell&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B" alt="Ignotum77's GitHub Stats" align="center"></img>
 </p>
 <table align="center">
   <tr>
@@ -28,8 +28,8 @@ I'm Ignotum. I develop things, because I want them better then other people have
   <tr>
     <td  align="center" width="50%">
       <!-- <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img> -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignotum77&layout=compact&langs_count=10" alt="Top Languages"></img> -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignotum77&theme=transparent" alt="Most committed Languages"></img>
+      <!-- img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignotum77&theme=transparent" alt="Most committed Languages"></img> -->
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ignotum77&layout=donut&langs_count=5&theme=transparent" alt="Most Used Languages">
     </td>
     <td align="center" width="50%">
        <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>

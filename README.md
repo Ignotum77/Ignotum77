@@ -29,7 +29,7 @@ I'm Ignotum. I develop things, because I want them better then other people have
     <td  align="center" width="50%">
       <!-- <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img> -->
       <!-- img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignotum77&theme=transparent" alt="Most committed Languages"></img> -->
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ignotum77&layout=donut&langs_count=5&theme=transparent" alt="Most Used Languages">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ignotum77&layout=donut&langs_count=5&theme=transparent&size_weight=0.5&count_weight=0.5" alt="Most Used Languages">
     </td>
     <td align="center" width="50%">
        <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>
